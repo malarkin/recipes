@@ -1,0 +1,14 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "a collection of recipes (to eat)",
+  "scripts": {
+    "dev": "vuepress dev recipes",
+    "build": "vuepress build recipes"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.29"
+  }
+}
