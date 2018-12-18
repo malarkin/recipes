@@ -13,6 +13,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push origin master:gh-pages -f
+git push -f https://github.com/cannoneyed/recipes.git master:gh-pages
 
 cd -
