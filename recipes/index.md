@@ -1,4 +1,4 @@
-# recipes
+a collection of recipes, for posterity and sharing.
 
 #### staples
 - [one pot orrechiette](./staples/one_pot_orecchiette.md)
