@@ -1,6 +1,3 @@
----
-title: chicken satay
----
 # pork bulgogi
 ## ingredients
 

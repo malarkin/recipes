@@ -1,8 +1,11 @@
-a collection of recipes, for posterity and sharing.
+🥘🥙A collection of recipes (for food, obviously) 🍲🍛
 
 #### staples
 - [one pot orrechiette](./staples/one_pot_orecchiette.md)
 - [clam linguine](./staples/clam_linguine.md)
+
+#### italian
+- [carbonara]('./italian/carbonara.md)
 
 #### thai
 - [chicken satay](./thai/chicken_satay.md)
