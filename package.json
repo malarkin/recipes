@@ -4,7 +4,8 @@
   "description": "a collection of recipes (to eat)",
   "scripts": {
     "dev": "vuepress dev recipes",
-    "build": "vuepress build recipes"
+    "build": "vuepress build recipes",
+    "deploy": "./deploy.sh"
   },
   "author": "",
   "license": "MIT",
