@@ -1,4 +1,4 @@
-🥘🥙A collection of recipes (for food, obviously) 🍲🍛
+🥘🥙 A collection of recipes (for food, obviously) 🍲🍛
 
 #### staples
 - [one pot orrechiette](./staples/one_pot_orecchiette.md)
@@ -20,3 +20,8 @@
 
 #### chinese
 - [beef with broccoli](./chinese/beef_with_broccoli.md)
+
+#### mexican
+- [enchiladas verde](./mexican/enchiladas_verde.md)
+- [refried black beans](./mexican/refried_black_beans.md)
+- [cilantro lime rice](./mexican/cilantro_lime_rice.md)
