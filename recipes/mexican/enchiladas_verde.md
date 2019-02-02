@@ -1,7 +1,6 @@
 # enchiladas verde
-## ingredients
 
-#### ingredients
+## ingredients
 - 2 cups cooked chicken
 - 1 pasilla pepper, diced
 - 1 onion, diced

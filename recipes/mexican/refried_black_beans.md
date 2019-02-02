@@ -1,7 +1,6 @@
 # refried black beans
-## ingredients
 
-#### ingredients
+## ingredients
 - 2 28oz cans black beans
 - 1 1/2 white onions, diced
 - 1 ts salt

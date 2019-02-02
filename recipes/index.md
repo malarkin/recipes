@@ -5,7 +5,10 @@
 - [clam linguine](./staples/clam_linguine.md)
 
 #### italian
-- [carbonara]('./italian/carbonara.md)
+- [carbonara](./italian/carbonara.md)
+
+#### spanish
+- [chorizo cassoulet](./spanish/chorizo_cassoulet.md)
 
 #### thai
 - [chicken satay](./thai/chicken_satay.md)

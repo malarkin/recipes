@@ -1,7 +1,6 @@
 # cilantro lime rice
-## ingredients
 
-#### ingredients
+## ingredients
 - 1 cup jasmine rice
 - 1 1/2 cup water
 - 1/2 ts salt

@@ -1,7 +1,6 @@
 # chile verde
-## ingredients
 
-#### ingredients
+## ingredients
 - 3 lb trimmed pork shoulder, cubed
 - 5 poblano peppers
 - 8 anaheim peppers
