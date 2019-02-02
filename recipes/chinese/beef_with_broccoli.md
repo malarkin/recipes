@@ -1,4 +1,8 @@
-# beef with broccoli
+# beef with broccoli (and kale)
+
+Hearty yet healthy, this beef with broccoli borrows from classic Americanized
+Chinese dishes like Mongolian Beef to add more nuance and punch. Excellent with
+brown rice.
 
 ## ingredients
 

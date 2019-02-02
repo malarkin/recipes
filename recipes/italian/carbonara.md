@@ -1,5 +1,7 @@
 # carbonara
 
+My favorite carbonara, simple and rich.
+
 ## ingredients
 
 #### ingredients

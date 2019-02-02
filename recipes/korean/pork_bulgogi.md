@@ -1,5 +1,7 @@
 # pork bulgogi
 
+A wonderful freezer-friendly meal for random weeknight dinners.
+
 ## ingredients
 
 #### marinade
