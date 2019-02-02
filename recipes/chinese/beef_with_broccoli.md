@@ -46,10 +46,3 @@
 - Add the cornstarch mixture, sliced green onions, and (optional) kale. Cook for
   2-3 minutes or until thickened.
 - Add the roasted broccoli, and serve with rice (brown is excellent). Garnish with extra green onions.
-
-## to cook
-- Thaw the frozen bulgogi, then cook in 1 tbsp vegetable oil over medium heat,
-  adding extra soy sauce if not enough liquid.
-- Before serving, add a handful of shredded cabbage to the pan and cook until
-  just wilted.
-- Serve with rice (brown is quite nice).
