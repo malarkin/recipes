@@ -46,4 +46,4 @@ My favorite carbonara, simple and rich.
   cups), and this will give the dish it's final creaminess.
 - When all pasta water has been absorbed and the pasta is at the desired
   creaminess, add chopped parsley.
-- Serve in a wam bowl.
+- Serve in a warm bowl.
