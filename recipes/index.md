@@ -4,6 +4,9 @@
 - [one pot orrechiette](./staples/one_pot_orecchiette.md)
 - [clam linguine](./staples/clam_linguine.md)
 
+#### american
+- [jambalaya](./american/jambalaya.md)
+
 #### italian
 - [carbonara](./italian/carbonara.md)
 
